@@ -1,0 +1,6 @@
+# Ignore all files in the scratch directory
+# This directory is for active session notes only
+*
+
+# But track this .gitignore file itself
+!.gitignore
